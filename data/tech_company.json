@@ -1,0 +1,52 @@
+[
+    {
+        "coName":"Apple Inc.",
+        "headquarter":"Cupertino, California",
+        "ceo":"Tim Cook (CEO)",
+        "revenue":"US$274.515B",
+        "images":"//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/260px-Apple_park_cupertino_2019.jpg"
+
+
+    },
+
+    {
+        "coName":"Amazon.com, Inc.",
+        "headquarter":"Seattle, Washington",
+        "ceo": "Jeff Bezos (EC)",
+        "revenue":"US$386.064B",
+        "images":"//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Amazon_Spheres_05.jpg/220px-Amazon_Spheres_05.jpg"
+
+
+    },
+
+    {
+        "coName":"Google LLC",
+        "headquarter":"Menlo Park, Mountain View, California",
+        "ceo": "Sundar Pichai (CEO)",
+        "revenue":"US$66.001B",
+        "images":"//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/250px-Googleplex_HQ_%28cropped%29.jpg"
+
+
+    },
+
+    {
+        "coName":"Facebook, Inc.",
+        "headquarter":"Menlo Park, California",
+        "ceo": "Mark Zuckerberg (CEO)",
+        "revenue":"US$85.97B",
+        "images":"//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Facebook_Headquarters_1_Hacker_Way_Menlo_Park.jpg/250px-Facebook_Headquarters_1_Hacker_Way_Menlo_Park.jpg"
+
+
+    },
+
+    {
+        "coName":"Netflix, Inc.",
+        "headquarter":"Los Gatos, California",
+        "ceo": "Reed Hastings(Co-CEO)",
+        "revenue":"US$25.00B",
+        "images":"//upload.wikimedia.org/wikipedia/commons/thumb/1/18/100_Winchester_Circle.jpg/199px-100_Winchester_Circle.jpg"
+
+
+    }
+
+]
